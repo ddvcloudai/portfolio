@@ -1,4 +1,4 @@
-[Divyadeep Verma]
+# [Divyadeep Verma]
 **AI Engineer | Data Science Professional**
 📍 Toronto, Ontario, Canada | 📧 dd.verma180@gmail.com.com | 🔗 [LinkedIn](https://linkedin.com/in/divyadeep-verma) | 🌐 [Portfolio Site](https://dverma.github.io)
 
