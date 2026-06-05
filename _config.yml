@@ -1,5 +1,5 @@
 title: Portfolio
-logo: "/assets/images/IMG_5263.jpg"
+logo: "/.assets/images/IMG_5263.jpg"
 description: Current Resume
-theme: jekyll-theme-tminimal
+theme: jekyll-theme-minimal
 show_downloads: true
