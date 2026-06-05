@@ -3,3 +3,8 @@ logo: "/assets/images/IMG_5263.jpg"
 description: Current Resume
 theme: jekyll-theme-minimal
 show_downloads: true
+# for vercel compatibility:
+url: ""
+baseurl: ""
+plugins:
+  - jekyll-theme-minimal
